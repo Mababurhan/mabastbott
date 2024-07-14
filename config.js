@@ -1,7 +1,7 @@
 module.exports = {
     app: {
-        token: 'xxx',
-        playing: 'by the Community ❤️',
+        token: 'MTI2MjExNjM4MDI0OTk1MjI5Nw.GqK-7Y.0mIJmu2jp7C_w_Rez27jANrJ1RhL68V2sDHcWY',
+        playing: 'by Maba Bot ❤️',
         global: true,
         guild: 'xxx',
         extraMessages: false,
